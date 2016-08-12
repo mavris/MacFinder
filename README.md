@@ -37,6 +37,6 @@ Visit my article for MacFinder for more details
 
 ###License
 
-Copyright Miksoft 2015
+Copyright Miksoft 2016
 
 Licensed under the MIT License
