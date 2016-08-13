@@ -29,7 +29,7 @@ NSLog(@”Mac:%@”,mac);
 That's it!
 
 ### More Details
-Visit my article for MacFinder for more details
+Visit my [article] (https://medium.com/rocknnull/ios-from-ip-to-mac-address-1e3726ff6d2b#.kgbe3wipa) for MacFinder for more details
 
 ###Authors
 
