@@ -19,9 +19,7 @@ Import the class in your class:
 
 
 ```
-MacFinder *mc = [[MacFinder alloc]init]; 
-
-NSString *mac = [mc ip2mac:”192.168.10.24"]; 
+NSString *mac = [MacFinder ip2mac:@”192.168.10.24"]; 
 
 NSLog(@”Mac:%@”,mac);
 ```
