@@ -76,7 +76,10 @@
             mAddr = nil;
     }
     
-    
+    if (buf) {
+       free(buf);	    
+    }
+ 
     if (found_entry == 0) {
         return nil;
     } else {
