@@ -4,6 +4,8 @@ MacFinder
 
 MacFinder is a class that helps find a MAC Address using it's IP
 
+### Note
+Issue for MAC Addresses on iOS 10.2 has been resolved thanks to [@mochasoft] (https://github.com/mochasoft)
 
 ###Configuration
 
