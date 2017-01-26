@@ -7,7 +7,7 @@ MacFinder is a class that helps find a MAC Address using it's IP
 
 ###Configuration
 
-+ Add files in your Xcode project from: File-Add Files to YourProjectName-> Select MacFinder.m, MacFinder.h, route.h, if_arp.h, if_types.h and if_ether.h-> Click on "copy items if needed" -> OK
++ Add files in your Xcode project from: File-Add Files to YourProjectName-> Select MacFinder.m, MacFinder.h, route.h, if_arp.h and if_ether.h-> Click on "copy items if needed" -> OK
 
 ###How to use it
 
