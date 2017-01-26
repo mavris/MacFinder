@@ -29,7 +29,7 @@
 
 - (IBAction)findMACAction:(id)sender {
     
-    [self.macLabel setText:[NSString stringWithFormat:@"MAC %@",[MacFinder ip2mac:self.ipTextfield.text]]];
+   [self.macLabel setText:[NSString stringWithFormat:@"MAC %@",[MacFinder ip2mac:self.ipTextfield.text]]];
 }
 
 @end
