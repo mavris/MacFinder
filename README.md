@@ -2,14 +2,19 @@
 MacFinder
 ======
 
-MacFinder is a class that helps find a MAC Address using it's IP
+MacFinder is a class that helps you find the MAC Address of a specific IP
 
 ### Note
 Issue for MAC Addresses on iOS 10.2 has been resolved thanks to [@mochasoft] (https://github.com/mochasoft)
 
-###Configuration
+###Manual Installation
 
-+ Add files in your Xcode project from: File-Add Files to YourProjectName-> Select MacFinder.m, MacFinder.h, route.h, if_arp.h and if_ether.h-> Click on "copy items if needed" -> OK
++ Add files in your Xcode project from: File-Add Files to YourProjectName-> Select MacFinder.m, MacFinder.h, route.h, if_arp.h and if_ether.h-> Click on "copy items if needed" -> OK (Or copy them from /MacFinder/Network Headers/ folder)
+
+###CocoaPods Installation
+To install using CocoaPods, simply add the following line to your Podfile:
+```ruby
+pod 'MacFinder'```
 
 ###How to use it
 
@@ -37,6 +42,6 @@ Visit my [article] (https://medium.com/rocknnull/ios-from-ip-to-mac-address-1e37
 
 ###License
 
-Copyright Miksoft 2016
+Copyright Miksoft 2017
 
 Licensed under the MIT License

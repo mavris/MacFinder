@@ -64,7 +64,7 @@
 		828413431D0851EF00206E4C /* MacFinder */ = {
 			isa = PBXGroup;
 			children = (
-				8284135E1D08529F00206E4C /* Headers */,
+				8284135E1D08529F00206E4C /* Network Headers */,
 				828413471D0851EF00206E4C /* AppDelegate.h */,
 				828413481D0851EF00206E4C /* AppDelegate.m */,
 				828413631D08688E00206E4C /* MacFinder.h */,
@@ -88,15 +88,16 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8284135E1D08529F00206E4C /* Headers */ = {
+		8284135E1D08529F00206E4C /* Network Headers */ = {
 			isa = PBXGroup;
 			children = (
 				8284135C1D08523800206E4C /* route.h */,
 				8284135D1D08529D00206E4C /* if_ether.h */,
 				828413621D08558C00206E4C /* if_arp.h */,
 			);
-			name = Headers;
-			sourceTree = "<group>";
+			name = "Network Headers";
+			path = "/Users/Mike/Documents/Xcode/GitHub/MacFinderPod/MacFinder/Network Headers";
+			sourceTree = "<absolute>";
 		};
 /* End PBXGroup section */
 
