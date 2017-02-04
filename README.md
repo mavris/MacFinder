@@ -15,7 +15,7 @@ Issue for MAC Addresses on iOS 10.2 has been resolved thanks to [@mochasoft] (ht
 To install using CocoaPods, simply add the following line to your Podfile:
 
 ```ruby
-pod 'MacFinder
+pod 'MacFinder'
 ```
 ###How to use it
 
