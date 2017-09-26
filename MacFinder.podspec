@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MacFinder'
-  s.version          = '1.2.0'
+  s.version          = '1.2.1'
   s.summary          = 'MacFinder is a class that helps you find the MAC Address of a specific IP'
 
   s.homepage         = 'https://github.com/mavris/MacFinder'
